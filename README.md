@@ -4,18 +4,18 @@ This system is PHP pure with HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY.
 It contains the database & the whole system.
 
 # Description
-This project is used by three types of users:
+This project is used by five types of users:
         1. Client
         2. Pharmacy
-        4. Pharmacist
-        3. Administrator
-        4. Delivery
+        3. Pharmacist
+        4. Administrator
+        5. Delivery
         
 The functionalities of each type:
         1. Client has the ability to view and buy a product and ask a question and view reply on this question.
         2. Pharmacist has the ability to reply to any question asked by the client.
         3. Pharmacy has the ability to add medicament product & view all orders related to its pharmacy.
-        4. Admin has the ability to view all products and orders then assign the order to the delivery.
+        4. Admin has the ability to view all products and orders then assign the order to the delivery and approve accounts.
         5. Delivery has the ability to accept/ cancel any order.
         6. The system add the delivery charge to any order and when a pharmacist reply to the question it is disappeared.
         
